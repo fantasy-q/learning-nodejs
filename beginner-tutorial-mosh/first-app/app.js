@@ -1,9 +1,9 @@
 /* Your Fisrt Node Program */
-// function sayHello(name) {
-//   console.log('Hello, ' + name + '!');
-// }
+function sayHello(name) {
+  console.log('Hello, ' + name + '!');
+}
 
-// sayHello('Node.js');
+sayHello('Node.js');
 
 
 /* Global Object */
